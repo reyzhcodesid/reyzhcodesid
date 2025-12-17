@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=520&lines=Fullstack+Developer+%7C+Bot+Architect;WhatsApp+%7C+Telegram+%7C+Discord+Bots;Laravel+%7C+Node.js+Wizard;Pterodactyl+Automation+Pro;Automation+Not+Repetition!;Let's+Build+Something+Dope+🔥" />
 </p>
 
-🚀 **Fullstack Developer | Bot Architect | Hosting Automation Guru** dari 🇮🇩 Indonesia
+🚀 **Fullstack Developer | Bot Architect | Hosting Automation** dari 🇮🇩 Indonesia
 
 ---
 
