@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Dedek Eza
+# 👋 Hi, I'm ReyzhCodes
 
 🚀 **Fullstack Developer | Bot Developer | Hosting & Panel Enthusiast**
 
@@ -24,23 +24,23 @@ Saya adalah developer dari Indonesia yang fokus pada:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reyzhcodesid\&show_icons=true\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reyzhcodesid\&layout=compact\&theme=tokyonight)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=USERNAME_KAMU\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=reyzhcodesid\&theme=tokyonight)
 
 ---
 
 ## 🌐 Connect With Me
 
-* 💬 WhatsApp Bot Developer
-* 🌍 Website & Hosting Automation
-* 📫 Contact: **[your-email@example.com](mailto:your-email@example.com)**
+* 💬 Bot Developer (WA / Telegram / Discord)
+* ☁️ Hosting Panel & Automation
+* 📫 Contact: **[your-email@example.com](mailto:rezalowest363@@gmail.com)**
 
 ---
 
