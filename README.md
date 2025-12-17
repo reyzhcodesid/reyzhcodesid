@@ -1,7 +1,3 @@
-<!-- ===================== HERO ===================== -->
-
-<h1 align="center">👋 Yo! I'm <b>ReyzhCodes</b> ⚡</h1>
-<p align="center"><i>Fullstack Developer • Bot Architect • Hosting Automation</i></p>
 
 ![Header](./banner.png)
 
