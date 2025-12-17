@@ -11,7 +11,6 @@
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reyzhcodesid&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reyzhcodesid&layout=compact&theme=tokyonight&hide_border=true&border_radius=12)
 
 </div>
 
