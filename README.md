@@ -18,8 +18,9 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=reyzhcodesid&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14&include_all_commits=true" />
-<img height="165" src="https://streak-stats.demolab.com?user=reyzhcodesid&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=reyzhcodesid&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14" />
+<br/>
+<img src="https://streak-stats.demolab.com?user=reyzhcodesid&theme=tokyonight&hide_border=true" />
 
 </div>
 
