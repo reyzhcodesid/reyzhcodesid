@@ -3,6 +3,8 @@
 <h1 align="center">👋 Yo! I'm <b>ReyzhCodes</b> ⚡</h1>
 <p align="center"><i>Fullstack Developer • Bot Architect • Hosting Automation</i></p>
 
+![Header](./baanner.png)
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=720&lines=Fullstack+Developer+%7C+Bot+Architect;WhatsApp+%7C+Telegram+%7C+Discord+Bots;Laravel+%7C+Node.js+Wizard;Pterodactyl+Automation+Pro;Build+Automation%2C+Not+Repetition!+🔥" />
 </p>
