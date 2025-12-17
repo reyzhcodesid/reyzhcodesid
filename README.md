@@ -11,6 +11,7 @@
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reyzhcodesid&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=reyzhcodesid\&theme=tokyonight)
 
 </div>
 
